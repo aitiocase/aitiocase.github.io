@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Nimi | Email | Opiskelijatunnus | GitHub | LinkedIn
+------------ | ------------- | ------------- | ------------- | -------------
+Mikki Tiitinen | H9580@student.jamk.fi | H9580 | https://github.com/Miggooo | https://www.linkedin.com/in/mikkotiitinen/
+Joni Laukka | jonilaukka@outlook.com | H9031 | https://github.com/aamoJL | -
 
 ```markdown
 Syntax highlighted code block
