@@ -21,7 +21,7 @@ Kuva | Elias Virtanen | H9576@student.jamk.fi | H9576 | [Zpiralh](https://github
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/aitiocase/aitiocase.github.io/master/kuvat/omakuvaMikko.jpg" alt="" /></td>
+      <td><img src="https://raw.githubusercontent.com/aitiocase/aitiocase.github.io/master/kuvat/omakuvaMikko.jpg" alt="" width="200px"/></td>
       <td>Mikko Tiitinen</td>
       <td>H9580@student.jamk.fi</td>
       <td>H9580</td>
