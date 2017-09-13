@@ -1,0 +1,131 @@
+/* Bootstrap default overrides */
+.custom-navbar {
+    background: #292b2c;
+    padding: 30px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom:0px;
+}
+
+.navbar-inverse .navbar-brand {
+    font-size: 30px;
+    color: #ffffff;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.jumbotron {
+    background-color: #292b2c;
+    color:#ffffff;
+}
+
+.jumbotron p {
+    overflow:hidden;
+    font-size:25px;
+}
+
+figure
+{
+    font-weight: bold;
+    margin-bottom:100px;
+    word-wrap:break-word;
+}
+
+figurecaption
+{
+    font-size: 20px;
+}
+
+
+@font-face {
+    font-family: system;
+    font-style: normal;
+    font-weight: 300;
+    src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local("Segoe UI Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+body {
+    font-family: "system";
+    overflow-x:hidden;
+}
+
+.team p{
+    font-size:20px;
+    overflow: hidden;
+}
+
+img {
+    height:auto;
+}
+
+h1
+{
+    font-weight: bold;
+    font-size:40px;
+    margin-bottom:20px;
+}
+
+h2
+{
+    font-weight: bold;
+    font-size:30px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px)
+{
+    figure
+    {
+        margin-bottom:50px;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px)
+{     
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px)
+{
+    figure
+    {
+        margin-bottom:100px;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px)
+{
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px)
+{
+
+}
